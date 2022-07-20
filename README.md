@@ -14,7 +14,7 @@ I have ordered five shift register driver boards from JLCPCB using the
 
 ## Software
 
-- The py74HC595 library
+- The pi74HC595 library
 - Raspberry Pi GPIO library
 
 [1]: https://oshwlab.com/cmarting99/shiftregmosfet
